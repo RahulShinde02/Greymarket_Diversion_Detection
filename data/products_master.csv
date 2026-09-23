@@ -1,0 +1,8 @@
+sku,name,base_price,revenue_share,margin
+SKU_HV_HD_01,Pulmoshield 50mg,520.0,0.4,0.4
+SKU_HV_HD_02,Aerovent 30s,300.0,0.3,0.3
+SKU_HV_LD_03,Respicure 10mg,950.0,0.075,0.3
+SKU_MD_MD_04,Bronchodil 10s,85.0,0.075,0.328
+SKU_LV_LD_05,Nebusal 24pk,28.0,0.0375,0.2
+SKU_LV_MD_06,Clinisept 5L,45.0,0.0375,0.28
+SKU_MD_HD_07,Aerohale MDI,220.0,0.075,0.25

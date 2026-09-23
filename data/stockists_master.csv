@@ -1,0 +1,129 @@
+id,name,territory_id,territory_name,region,monthly_quota
+MH_MUM_01_S1,Mumbai-South Pharma Dist 1,MH_MUM_01,Mumbai-South,Mumbai,468.91095789622466
+MH_MUM_01_S2,Mumbai-South Pharma Dist 2,MH_MUM_01,Mumbai-South,Mumbai,292.26275218815323
+MH_MUM_01_S3,Mumbai-South Pharma Dist 3,MH_MUM_01,Mumbai-South,Mumbai,638.8262899156219
+MH_MUM_02_S1,Mumbai-Suburbs Pharma Dist 1,MH_MUM_02,Mumbai-Suburbs,Mumbai,159.16584772365565
+MH_MUM_02_S2,Mumbai-Suburbs Pharma Dist 2,MH_MUM_02,Mumbai-Suburbs,Mumbai,495.1176632786126
+MH_MUM_02_S3,Mumbai-Suburbs Pharma Dist 3,MH_MUM_02,Mumbai-Suburbs,Mumbai,945.7164889977319
+MH_THN_01_S1,Thane-Urban Pharma Dist 1,MH_THN_01,Thane-Urban,Thane,647.3980258536947
+MH_THN_01_S2,Thane-Urban Pharma Dist 2,MH_THN_01,Thane-Urban,Thane,358.7593339590089
+MH_THN_01_S3,Thane-Urban Pharma Dist 3,MH_THN_01,Thane-Urban,Thane,366.0323992718643
+MH_THN_01_S4,Thane-Urban Pharma Dist 4,MH_THN_01,Thane-Urban,Thane,127.81024091543196
+MH_NVM_01_S1,Navi-Mumbai Pharma Dist 1,MH_NVM_01,Navi-Mumbai,Navi Mumbai,298.2112035193169
+MH_NVM_01_S2,Navi-Mumbai Pharma Dist 2,MH_NVM_01,Navi-Mumbai,Navi Mumbai,238.95522041591957
+MH_NVM_01_S3,Navi-Mumbai Pharma Dist 3,MH_NVM_01,Navi-Mumbai,Navi Mumbai,150.00599122445794
+MH_NVM_01_S4,Navi-Mumbai Pharma Dist 4,MH_NVM_01,Navi-Mumbai,Navi Mumbai,313.8139422579982
+MH_NVM_01_S5,Navi-Mumbai Pharma Dist 5,MH_NVM_01,Navi-Mumbai,Navi Mumbai,299.0136425823075
+MH_PUN_01_S1,Pune-City Pharma Dist 1,MH_PUN_01,Pune-City,Pune,120.22641052225596
+MH_PUN_01_S2,Pune-City Pharma Dist 2,MH_PUN_01,Pune-City,Pune,294.61042908704064
+MH_PUN_01_S3,Pune-City Pharma Dist 3,MH_PUN_01,Pune-City,Pune,439.01905355745384
+MH_PUN_01_S4,Pune-City Pharma Dist 4,MH_PUN_01,Pune-City,Pune,177.3901198121374
+MH_PUN_01_S5,Pune-City Pharma Dist 5,MH_PUN_01,Pune-City,Pune,445.08968512097533
+MH_PUN_01_S6,Pune-City Pharma Dist 6,MH_PUN_01,Pune-City,Pune,73.66430190013659
+MH_PUN_02_S1,Pune-PCMC Pharma Dist 1,MH_PUN_02,Pune-PCMC,Pune,239.09718505069188
+MH_PUN_02_S2,Pune-PCMC Pharma Dist 2,MH_PUN_02,Pune-PCMC,Pune,175.60304627172107
+MH_PUN_02_S3,Pune-PCMC Pharma Dist 3,MH_PUN_02,Pune-PCMC,Pune,376.980669795636
+MH_PUN_02_S4,Pune-PCMC Pharma Dist 4,MH_PUN_02,Pune-PCMC,Pune,658.3190988819509
+MH_PUN_03_S1,Pune-Rural Pharma Dist 1,MH_PUN_03,Pune-Rural,Pune,174.74922075873107
+MH_PUN_03_S2,Pune-Rural Pharma Dist 2,MH_PUN_03,Pune-Rural,Pune,104.53884805997596
+MH_PUN_03_S3,Pune-Rural Pharma Dist 3,MH_PUN_03,Pune-Rural,Pune,142.48702942213035
+MH_PUN_03_S4,Pune-Rural Pharma Dist 4,MH_PUN_03,Pune-Rural,Pune,223.41803292665637
+MH_PUN_03_S5,Pune-Rural Pharma Dist 5,MH_PUN_03,Pune-Rural,Pune,58.8443743563236
+MH_PUN_03_S6,Pune-Rural Pharma Dist 6,MH_PUN_03,Pune-Rural,Pune,195.96249447618263
+MH_NAG_01_S1,Nagpur-Urban Pharma Dist 1,MH_NAG_01,Nagpur-Urban,Nagpur,494.4862770912352
+MH_NAG_01_S2,Nagpur-Urban Pharma Dist 2,MH_NAG_01,Nagpur-Urban,Nagpur,108.27957439547693
+MH_NAG_01_S3,Nagpur-Urban Pharma Dist 3,MH_NAG_01,Nagpur-Urban,Nagpur,140.5387104898097
+MH_NAG_01_S4,Nagpur-Urban Pharma Dist 4,MH_NAG_01,Nagpur-Urban,Nagpur,31.489659928414106
+MH_NAG_01_S5,Nagpur-Urban Pharma Dist 5,MH_NAG_01,Nagpur-Urban,Nagpur,88.88407260097564
+MH_NAG_01_S6,Nagpur-Urban Pharma Dist 6,MH_NAG_01,Nagpur-Urban,Nagpur,386.3217054940884
+MH_NAG_02_S1,Nagpur-Rural Pharma Dist 1,MH_NAG_02,Nagpur-Rural,Nagpur,104.95200313097301
+MH_NAG_02_S2,Nagpur-Rural Pharma Dist 2,MH_NAG_02,Nagpur-Rural,Nagpur,290.3617193469637
+MH_NAG_02_S3,Nagpur-Rural Pharma Dist 3,MH_NAG_02,Nagpur-Rural,Nagpur,73.51990954006158
+MH_NAG_02_S4,Nagpur-Rural Pharma Dist 4,MH_NAG_02,Nagpur-Rural,Nagpur,381.16636798200176
+MH_NSK_01_S1,Nashik-City Pharma Dist 1,MH_NSK_01,Nashik-City,Nashik,183.43197441932296
+MH_NSK_01_S2,Nashik-City Pharma Dist 2,MH_NSK_01,Nashik-City,Nashik,379.50702871642125
+MH_NSK_01_S3,Nashik-City Pharma Dist 3,MH_NSK_01,Nashik-City,Nashik,637.0609968642557
+MH_NSK_02_S1,Nashik-Rural Pharma Dist 1,MH_NSK_02,Nashik-Rural,Nashik,141.31718703740316
+MH_NSK_02_S2,Nashik-Rural Pharma Dist 2,MH_NSK_02,Nashik-Rural,Nashik,510.61648897539465
+MH_NSK_02_S3,Nashik-Rural Pharma Dist 3,MH_NSK_02,Nashik-Rural,Nashik,148.0663239872021
+MH_AUR_01_S1,Aurangabad-Hub Pharma Dist 1,MH_AUR_01,Aurangabad-Hub,Chhatrapati Sambhajinagar,376.5439639482698
+MH_AUR_01_S2,Aurangabad-Hub Pharma Dist 2,MH_AUR_01,Aurangabad-Hub,Chhatrapati Sambhajinagar,144.4678731262465
+MH_AUR_01_S3,Aurangabad-Hub Pharma Dist 3,MH_AUR_01,Aurangabad-Hub,Chhatrapati Sambhajinagar,174.63785325602217
+MH_AUR_01_S4,Aurangabad-Hub Pharma Dist 4,MH_AUR_01,Aurangabad-Hub,Chhatrapati Sambhajinagar,313.097367034446
+MH_AUR_01_S5,Aurangabad-Hub Pharma Dist 5,MH_AUR_01,Aurangabad-Hub,Chhatrapati Sambhajinagar,91.25294263501554
+MH_AUR_02_S1,Aurangabad-Rural Pharma Dist 1,MH_AUR_02,Aurangabad-Rural,Chhatrapati Sambhajinagar,136.6264410581418
+MH_AUR_02_S2,Aurangabad-Rural Pharma Dist 2,MH_AUR_02,Aurangabad-Rural,Chhatrapati Sambhajinagar,94.66595495626731
+MH_AUR_02_S3,Aurangabad-Rural Pharma Dist 3,MH_AUR_02,Aurangabad-Rural,Chhatrapati Sambhajinagar,173.53440769236357
+MH_AUR_02_S4,Aurangabad-Rural Pharma Dist 4,MH_AUR_02,Aurangabad-Rural,Chhatrapati Sambhajinagar,91.26185412243495
+MH_AUR_02_S5,Aurangabad-Rural Pharma Dist 5,MH_AUR_02,Aurangabad-Rural,Chhatrapati Sambhajinagar,253.91134217079232
+MH_KOL_01_S1,Kolhapur Pharma Dist 1,MH_KOL_01,Kolhapur,Kolhapur,91.35210092772599
+MH_KOL_01_S2,Kolhapur Pharma Dist 2,MH_KOL_01,Kolhapur,Kolhapur,176.02925465077413
+MH_KOL_01_S3,Kolhapur Pharma Dist 3,MH_KOL_01,Kolhapur,Kolhapur,506.264091636686
+MH_KOL_01_S4,Kolhapur Pharma Dist 4,MH_KOL_01,Kolhapur,Kolhapur,276.35455278481396
+MH_SOL_01_S1,Solapur Pharma Dist 1,MH_SOL_01,Solapur,Solapur,155.89395252066146
+MH_SOL_01_S2,Solapur Pharma Dist 2,MH_SOL_01,Solapur,Solapur,495.76388883216873
+MH_SOL_01_S3,Solapur Pharma Dist 3,MH_SOL_01,Solapur,Solapur,36.528240741326165
+MH_SOL_01_S4,Solapur Pharma Dist 4,MH_SOL_01,Solapur,Solapur,311.8139179058436
+MH_AMR_01_S1,Amravati Pharma Dist 1,MH_AMR_01,Amravati,Amravati,333.88634751499023
+MH_AMR_01_S2,Amravati Pharma Dist 2,MH_AMR_01,Amravati,Amravati,90.28471081505508
+MH_AMR_01_S3,Amravati Pharma Dist 3,MH_AMR_01,Amravati,Amravati,144.80901790249624
+MH_AMR_01_S4,Amravati Pharma Dist 4,MH_AMR_01,Amravati,Amravati,246.905773418767
+MH_AMR_01_S5,Amravati Pharma Dist 5,MH_AMR_01,Amravati,Amravati,134.1141503486913
+MH_NAN_01_S1,Nanded Pharma Dist 1,MH_NAN_01,Nanded,Nanded,160.60729200333503
+MH_NAN_01_S2,Nanded Pharma Dist 2,MH_NAN_01,Nanded,Nanded,181.39466528025235
+MH_NAN_01_S3,Nanded Pharma Dist 3,MH_NAN_01,Nanded,Nanded,245.14895198362237
+MH_NAN_01_S4,Nanded Pharma Dist 4,MH_NAN_01,Nanded,Nanded,32.66969509838297
+MH_NAN_01_S5,Nanded Pharma Dist 5,MH_NAN_01,Nanded,Nanded,80.41234096592008
+MH_NAN_01_S6,Nanded Pharma Dist 6,MH_NAN_01,Nanded,Nanded,199.76705466848702
+MH_JAL_01_S1,Jalgaon Pharma Dist 1,MH_JAL_01,Jalgaon,Jalgaon,132.3298021782799
+MH_JAL_01_S2,Jalgaon Pharma Dist 2,MH_JAL_01,Jalgaon,Jalgaon,418.98212842263155
+MH_JAL_01_S3,Jalgaon Pharma Dist 3,MH_JAL_01,Jalgaon,Jalgaon,107.63917468184661
+MH_JAL_01_S4,Jalgaon Pharma Dist 4,MH_JAL_01,Jalgaon,Jalgaon,191.04889471724184
+MH_AKO_01_S1,Akola Pharma Dist 1,MH_AKO_01,Akola,Akola,294.6738815702855
+MH_AKO_01_S2,Akola Pharma Dist 2,MH_AKO_01,Akola,Akola,251.5262886496326
+MH_AKO_01_S3,Akola Pharma Dist 3,MH_AKO_01,Akola,Akola,253.7998297800818
+MH_LAT_01_S1,Latur Pharma Dist 1,MH_LAT_01,Latur,Latur,274.95949476948016
+MH_LAT_01_S2,Latur Pharma Dist 2,MH_LAT_01,Latur,Latur,51.64727114805261
+MH_LAT_01_S3,Latur Pharma Dist 3,MH_LAT_01,Latur,Latur,127.89110932449901
+MH_LAT_01_S4,Latur Pharma Dist 4,MH_LAT_01,Latur,Latur,9.394853119697483
+MH_LAT_01_S5,Latur Pharma Dist 5,MH_LAT_01,Latur,Latur,236.1072716382707
+MH_DHU_01_S1,Dhule Pharma Dist 1,MH_DHU_01,Dhule,Dhule,127.18469121061747
+MH_DHU_01_S2,Dhule Pharma Dist 2,MH_DHU_01,Dhule,Dhule,434.4235966356122
+MH_DHU_01_S3,Dhule Pharma Dist 3,MH_DHU_01,Dhule,Dhule,88.3917121537703
+MH_AHM_01_S1,Ahmednagar Pharma Dist 1,MH_AHM_01,Ahmednagar,Ahmednagar,75.04421076908577
+MH_AHM_01_S2,Ahmednagar Pharma Dist 2,MH_AHM_01,Ahmednagar,Ahmednagar,393.4596234903551
+MH_AHM_01_S3,Ahmednagar Pharma Dist 3,MH_AHM_01,Ahmednagar,Ahmednagar,366.0978626439135
+MH_AHM_01_S4,Ahmednagar Pharma Dist 4,MH_AHM_01,Ahmednagar,Ahmednagar,113.35302796322908
+MH_AHM_01_S5,Ahmednagar Pharma Dist 5,MH_AHM_01,Ahmednagar,Ahmednagar,202.0452751334164
+MH_CND_01_S1,Chandrapur Pharma Dist 1,MH_CND_01,Chandrapur,Chandrapur,163.53817076907328
+MH_CND_01_S2,Chandrapur Pharma Dist 2,MH_CND_01,Chandrapur,Chandrapur,28.53285793647891
+MH_CND_01_S3,Chandrapur Pharma Dist 3,MH_CND_01,Chandrapur,Chandrapur,231.60672132228274
+MH_CND_01_S4,Chandrapur Pharma Dist 4,MH_CND_01,Chandrapur,Chandrapur,140.00658944128605
+MH_CND_01_S5,Chandrapur Pharma Dist 5,MH_CND_01,Chandrapur,Chandrapur,36.31566053087905
+MH_PAR_01_S1,Parbhani Pharma Dist 1,MH_PAR_01,Parbhani,Parbhani,44.544711912330946
+MH_PAR_01_S2,Parbhani Pharma Dist 2,MH_PAR_01,Parbhani,Parbhani,48.216242080101324
+MH_PAR_01_S3,Parbhani Pharma Dist 3,MH_PAR_01,Parbhani,Parbhani,338.21658931715825
+MH_PAR_01_S4,Parbhani Pharma Dist 4,MH_PAR_01,Parbhani,Parbhani,119.02245669040954
+MH_JLN_01_S1,Jalna Pharma Dist 1,MH_JLN_01,Jalna,Jalna,127.46044737247573
+MH_JLN_01_S2,Jalna Pharma Dist 2,MH_JLN_01,Jalna,Jalna,368.30241959120536
+MH_JLN_01_S3,Jalna Pharma Dist 3,MH_JLN_01,Jalna,Jalna,5.0
+MH_BHU_01_S1,Bhusawal Pharma Dist 1,MH_BHU_01,Bhusawal,Bhusawal,189.74380990173142
+MH_BHU_01_S2,Bhusawal Pharma Dist 2,MH_BHU_01,Bhusawal,Bhusawal,67.58630603247772
+MH_BHU_01_S3,Bhusawal Pharma Dist 3,MH_BHU_01,Bhusawal,Bhusawal,192.66988406579085
+MH_SAT_01_S1,Satara Pharma Dist 1,MH_SAT_01,Satara,Satara,132.9265581947182
+MH_SAT_01_S2,Satara Pharma Dist 2,MH_SAT_01,Satara,Satara,514.8560544482233
+MH_SAT_01_S3,Satara Pharma Dist 3,MH_SAT_01,Satara,Satara,52.217387357058534
+MH_BED_01_S1,Beed Pharma Dist 1,MH_BED_01,Beed,Beed,187.3507458204797
+MH_BED_01_S2,Beed Pharma Dist 2,MH_BED_01,Beed,Beed,87.14093356864205
+MH_BED_01_S3,Beed Pharma Dist 3,MH_BED_01,Beed,Beed,325.50832061087823
+MH_YAV_01_S1,Yavatmal Pharma Dist 1,MH_YAV_01,Yavatmal,Yavatmal,87.57648481131206
+MH_YAV_01_S2,Yavatmal Pharma Dist 2,MH_YAV_01,Yavatmal,Yavatmal,229.33561011443075
+MH_YAV_01_S3,Yavatmal Pharma Dist 3,MH_YAV_01,Yavatmal,Yavatmal,16.05049260810757
+MH_YAV_01_S4,Yavatmal Pharma Dist 4,MH_YAV_01,Yavatmal,Yavatmal,56.619757787086925
+MH_YAV_01_S5,Yavatmal Pharma Dist 5,MH_YAV_01,Yavatmal,Yavatmal,160.4176546790627
+MH_BRM_01_S1,Baramati Pharma Dist 1,MH_BRM_01,Baramati,Baramati,234.40582619110265
+MH_BRM_01_S2,Baramati Pharma Dist 2,MH_BRM_01,Baramati,Baramati,83.48847784276984
+MH_BRM_01_S3,Baramati Pharma Dist 3,MH_BRM_01,Baramati,Baramati,270.771478725374
+MH_BRM_01_S4,Baramati Pharma Dist 4,MH_BRM_01,Baramati,Baramati,35.82661178101013
+MH_BRM_01_S5,Baramati Pharma Dist 5,MH_BRM_01,Baramati,Baramati,93.13596948633334
+MH_BRM_01_S6,Baramati Pharma Dist 6,MH_BRM_01,Baramati,Baramati,32.371635973410065

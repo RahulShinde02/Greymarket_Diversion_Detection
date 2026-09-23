@@ -1,0 +1,7 @@
+{
+  "seed": 2102,
+  "days": 1460,
+  "growth_rate": 0.10,
+  "n_events": 200,
+  "start_date": "2022-01-01"
+}
